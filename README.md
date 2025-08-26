@@ -213,15 +213,19 @@ egrep '(world$)' newfile
 
 egrep '(World$)' newfile 
 ## OUTPUT
+<img width="349" height="53" alt="image" src="https://github.com/user-attachments/assets/32e58357-6ca3-496c-9170-0a8238631166" />
+
 
 
 egrep '((W|w)orld$)' newfile 
 ## OUTPUT
+<img width="369" height="78" alt="image" src="https://github.com/user-attachments/assets/04e221d7-8dd3-4e0b-9fb2-1b68a12c8656" />
 
 
 
 egrep '[1-9]' newfile 
 ## OUTPUT
+<img width="367" height="50" alt="image" src="https://github.com/user-attachments/assets/c4b8a1cf-4e46-4563-a20b-fe567e277949" />
 
 
 
