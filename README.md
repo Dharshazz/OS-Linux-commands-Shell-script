@@ -438,10 +438,14 @@ cd backupdir
  
 tar -tvf backup.tar
 ## OUTPUT
+<img width="781" height="466" alt="image" src="https://github.com/user-attachments/assets/b85beeb9-c1a8-48ba-88b6-378b09ef739b" />
 
 
 tar -xvf backup.tar
 ## OUTPUT
+<img width="519" height="549" alt="image" src="https://github.com/user-attachments/assets/ddc04876-9647-4a6d-ba91-bf165b988ddd" />
+
+<img width="549" height="487" alt="image" src="https://github.com/user-attachments/assets/115fc3dc-ab46-497a-abee-9950e03ab6da" />
 
 gzip backup.tar
 
