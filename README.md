@@ -1129,6 +1129,8 @@ done
 set +x
 ```
 ## OUTPUT
+<img width="449" height="251" alt="image" src="https://github.com/user-attachments/assets/0a4c00fe-176d-455c-89f7-23d9942ad1b4" />
+
  ./argshift.sh 1 2 3
  
  
@@ -1161,7 +1163,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- 
+ <img width="456" height="424" alt="image" src="https://github.com/user-attachments/assets/51fb3148-f22e-485b-8dde-4a6aaddbae05" />
+
 cat > palindrome.sh
 ```bash
 #num=545
@@ -1188,6 +1191,8 @@ else
 fi
 ```
 ## OUTPUT 
+<img width="568" height="589" alt="image" src="https://github.com/user-attachments/assets/2ef987a8-bb3d-4f0f-b055-b621fb22bfc6" />
+<img width="494" height="486" alt="image" src="https://github.com/user-attachments/assets/0aa9006e-b985-4fa3-b1f9-b1cadc13845c" />
 
 
 # RESULT:
